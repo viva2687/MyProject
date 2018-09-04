@@ -13,7 +13,7 @@ public class Calculator {
 		
 	Calculator cal = new Calculator();
 	int sum = cal.addnumbers(number1, number2);
-	System.out.println("Sum of two numbers.. number1 and number2: "+sum);
+	System.out.println("Sum of two numbers: "+sum);
 	}
 	
 	int addnumbers(int number1, int number2) {
